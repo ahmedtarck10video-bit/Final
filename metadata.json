@@ -1,0 +1,6 @@
+{
+  "name": "Mixed Reality",
+  "description": "Mixed Reality, AR, and 3D Object spatial viewer with real-time motion tracking, stereo MR mode, camera passthrough, GLB model loading, photo/video capture, and PBR lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
